@@ -1,10 +1,9 @@
-
+# Como executar o script:
+Clique com o lado direito do mouse em cima do arquivo e clique na opção "Executar com PowerShell"
 
 > [!Warning]
 > Testamos muito bem para que o script nao cause danos ao sistema, porem use por sua própria conta e risco!
 
-## Como executar o script:
-Clique com o lado direito do mouse em cima do arquivo e clique na opção "Executar com PowerShell"
 
 #### Caso apareça o erro do tipo "A execução de scripts foi desabilitada neste sistema." você pode estar usando a seguinte solução a baixo.
 
